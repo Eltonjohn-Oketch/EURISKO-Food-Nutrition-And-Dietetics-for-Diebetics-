@@ -40,7 +40,7 @@ https://docs.google.com/spreadsheets/d/1BwRHgNKghr4H0ZtpFvrG4S6WEk94JQFt/edit?us
 
 # License
 
-Distributed under the MIT License. See license.txt for more information.
+Distributed under the MIT License. See https://github.com/Eltonjohn-Oketch/EURISKO-Food-Nutrition-And-Dietetics-for-Diebetics-/blob/main/LICENSE for more information.
 
 
 
