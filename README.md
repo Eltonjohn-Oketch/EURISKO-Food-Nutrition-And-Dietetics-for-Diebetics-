@@ -42,5 +42,20 @@ https://docs.google.com/spreadsheets/d/1BwRHgNKghr4H0ZtpFvrG4S6WEk94JQFt/edit?us
 
 Distributed under the MIT License. See https://github.com/Eltonjohn-Oketch/EURISKO-Food-Nutrition-And-Dietetics-for-Diebetics-/blob/main/LICENSE for more information.
 
+# Model Methods
+
+Hypertuned XGBoost
+Support Vector Machine
+Neural Networks (MLP
+XGBoost
+Random Forest
+K-Nearest Neighbors
+Decision Trees
+Hypertuned KNN
+MLP classifier
+Sequential layers
+
+
+
 
 
