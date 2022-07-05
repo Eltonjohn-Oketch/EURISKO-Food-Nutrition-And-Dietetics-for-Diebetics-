@@ -1,1 +1,1 @@
-# EURISKO-Food-Nutrtion-And-Dietetics-for-Diebetics-
+# EURISKO (Food Nutrition And Dietetics for Diebetics) Nutrition Recommendation system.
