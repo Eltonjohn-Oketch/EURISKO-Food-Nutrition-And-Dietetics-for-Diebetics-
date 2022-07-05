@@ -1,2 +1,2 @@
 # EURISKO (Food Nutrition And Dietetics for Diebetics) Nutrition Recommendation system.
-![image](https://user-images.githubusercontent.com/98347891/177378767-da85a6d1-7a55-456b-a943-7925a8705ff5.png)
+![image](https://user-images.githubusercontent.com/98347891/177379136-4407d490-24c1-4404-a234-e4fd9a0b1f63.png)
