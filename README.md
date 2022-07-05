@@ -31,8 +31,10 @@ Then to use the nutrition dataset to recommend diets based on the glycemic index
 # Data
 
 The data we used for this analysis was from the PIMA people of indian heritage. Their information were taken as part of a clinical trial therefore its accuracy is of the highest percentile, thorough and verifiably relevant in every accord.
+
 Diabetes dataset
 https://drive.google.com/file/d/1pJ_OfcokEAQfyejGntU7v7FJ8HQ1joJG/view?usp=sharing
+
 Glycemic index Dataset
 https://docs.google.com/spreadsheets/d/1BwRHgNKghr4H0ZtpFvrG4S6WEk94JQFt/edit?usp=sharing&ouid=109390265475617060608&rtpof=true&sd=true
 
