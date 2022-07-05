@@ -40,5 +40,7 @@ https://docs.google.com/spreadsheets/d/1BwRHgNKghr4H0ZtpFvrG4S6WEk94JQFt/edit?us
 
 # License
 
+Distributed under the MIT License. See license.txt for more information.
+
 
 
