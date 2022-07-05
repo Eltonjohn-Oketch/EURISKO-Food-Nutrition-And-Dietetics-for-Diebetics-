@@ -15,13 +15,18 @@ In this regard, a food nutrition recommendation system would be helpful. A food 
 
 Hypothesis: Classify individuals into two classes.Those with diabetes and those without
 
-X-Axis: The feature variables used to predict the outcome.
+X-Variables: The feature variables used to predict the outcome.
 
-y-Axis: The diabetes class labels (0, 1) (without,with respectively)
+y-Variables: The diabetes class labels (0, 1) (without,with respectively)
 
 Experimental setup: Classify the individuals to those with diabetes (1) and those without(0) based on the individuals prompted inputs of their medical details.
 
 Design of the Experiment: Analyze 768 individuals over 9 metrics use to predict their outcome class then recommend food for each individual class independently.
 
 Sample size: 768 individuals
+
+Then to use the nutrition dataset to recommend diets based on the glycemic index of food chosen by the respective individuals
+
+
+#Data
 
