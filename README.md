@@ -66,7 +66,7 @@ Sequential layers
 
 # Author
 
-Eurisko
+Eurisko - (Eltonjohn) scrum master 
 
 
 
