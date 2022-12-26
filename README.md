@@ -64,6 +64,9 @@ MLP classifier
 
 Sequential layers
 
+# Author
+
+Eurisko
 
 
 
