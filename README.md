@@ -4,7 +4,7 @@
 
 The project detailed here attempts to build a machine learning model that will help classify individuals to whether they have diebetes or not,then further recommend foods to both the classified classes independently.
 
-![image](https://user-images.githubusercontent.com/98347891/177379136-4407d490-24c1-4404-a234-e4fd9a0b1f63.png)
+![image](https://user-images.githubusercontent.com/98347891/210130336-a6c97c50-adcb-427d-8bf2-4f375f3ddfca.png)
 
 # Project Overview(Description)
 
