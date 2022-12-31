@@ -62,7 +62,7 @@ Hypertuned KNN
 
 MLP classifier
 
-Sequential layers
+Sequential layers.
 
 # Author
 
